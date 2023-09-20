@@ -5,6 +5,7 @@ class Listen:
         self.recognizer = sr.Recognizer()
         self.audio = None
         self.text = None
+        
         try:
             with sr.Microphone() as source:
                 print("듣는 중 이ㅇㅔㅔㅔ요!")

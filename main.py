@@ -5,6 +5,7 @@ from answer import Answer
 import time
 
 Welcome()
+
 Say("안녕하세요ㅛ!")
 print("안녕ㅎㅏ세요ㅛ!")
 

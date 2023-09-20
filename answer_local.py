@@ -2,7 +2,6 @@ import pandas as pd
 from tts import Say
 
 data = pd.read_csv("qa_data.csv")
-
 qa_dict = dict(zip(data["질문"], data["답변"]))
 
 class Answer:

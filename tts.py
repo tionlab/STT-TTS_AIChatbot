@@ -12,6 +12,5 @@ class Say:
             tts.save(temp_file_name)
 
         pygame.mixer.init()
-
         pygame.mixer.music.load(temp_file_name)
         pygame.mixer.music.play()
