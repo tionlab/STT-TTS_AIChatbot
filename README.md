@@ -6,7 +6,7 @@
 
 <h1>How to use</h1>
 <p>
-1. Install the zip file from [the latest release](https://github.com/tionlab/STT-TTS_AIChatbot/releases/tag/Main_Relases)
+1. Install the zip file from [the latest release](https://github.com/tionlab/STT-TTS_AIChatbot/releases/tag/Main_Relases/)
 
 
 2. modify the .env to your own OpenAI ChatGPT API, or modify it to run in Local mode
