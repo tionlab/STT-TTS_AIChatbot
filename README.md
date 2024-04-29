@@ -1,5 +1,5 @@
 # CUTE
-[![the latest release](https://github.com/tionlab/STT-TTS_AIChatbot/releases/tag/Main_Relases/)
+[the latest release](https://github.com/tionlab/STT-TTS_AIChatbot/releases/tag/Main_Relases/)
 <img src="https://static.wikia.nocookie.net/undertale/images/7/7b/Temmie_battle_idle.gif/revision/latest/scale-to-width/360?cb=20151206115948)https://static.wikia.nocookie.net/undertale/images/7/7b/Temmie_battle_idle.gif/revision/latest/scale-to-width/360?cb=20151206115948">
 </p>
 
