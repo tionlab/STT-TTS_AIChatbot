@@ -6,15 +6,15 @@ import time
 
 Welcome()
 
-Say("안녕하세요ㅛ!")
-print("안녕ㅎㅏ세요ㅛ!")
+Say("hello!")
+print("hellooo!")
 
 while True:
     listen = Listen()
     if listen.text:
-        if listen.text == "종료해 줘" and "종료해줘":
-            print("ㅇㅔ이ㅇㅏ이: ㅂㅏ이 ㅂㅏ이")
-            Say("바잉바잉")
+        if listen.text == "Shut down" and "Shutdown":
+            print("Temmie : Goooood byee!")
+            Say("gooood bye!")
             time.sleep(5)
             break
         Answer(listen.text)
