@@ -5,6 +5,7 @@
 
 
 <h1>How to use</h1>
+<p>
 1. Install the zip file from [the latest release] (https://github.com/tionlab/STT-TTS_AIChatbot/releases/tag/Main_Relases)
 
 
@@ -12,3 +13,4 @@
 
 
 3. run main.py and enjoy!
+</p>
