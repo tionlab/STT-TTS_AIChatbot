@@ -13,5 +13,9 @@
 </p>
 <br/>
 <p>
-3. run main.py and enjoy!
+3. run `pip install openai python-dotenv pandas SpeechRecognition pygame gtts`
+</p>
+<br/>
+<p>
+4. run main.py and enjoy!
 </p>
