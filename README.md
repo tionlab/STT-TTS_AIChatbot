@@ -13,7 +13,7 @@
 </p>
 <br/>
 <p>
-3. run `pip install openai python-dotenv pandas SpeechRecognition pygame gtts`
+3. run <code>pip install openai python-dotenv pandas SpeechRecognition pygame gtts</code>
 </p>
 <br/>
 <p>
